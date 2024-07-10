@@ -1,0 +1,13 @@
+project:
+  type: manuscript
+
+execute:
+  freeze: auto
+
+format: 
+  docx-pdf: default
+  html: 
+    toc: true
+    comments:
+      hypothesis: true
+    
